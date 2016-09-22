@@ -3,12 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Library
+namespace Library.Models
 {
-    public class Class1
-    {
-        public Class1()
-        {
-        }
-    }
+  public class Cat : IPet
+  {
+    public string TalkToOwner() => "Meow!";
+  }
 }
