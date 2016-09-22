@@ -7,8 +7,8 @@
 -debug:portable
 -nostdlib
 -nologo
-"/home/jbeck/NetCoreDemo/src/App.Console/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
--out:"/home/jbeck/NetCoreDemo/src/App.Console/bin/Debug/netcoreapp1.0/App.Console.dll"
+"/home/jbeck/NetCoreDemo/src/DemoConsoleApp/obj/Debug/netcoreapp1.0/dotnet-compile.assemblyinfo.cs"
+-out:"/home/jbeck/NetCoreDemo/src/DemoConsoleApp/bin/Debug/netcoreapp1.0/DemoConsoleApp.dll"
 -r:"/home/jbeck/.nuget/packages/Microsoft.CSharp/4.0.1/ref/netstandard1.0/Microsoft.CSharp.dll"
 -r:"/home/jbeck/.nuget/packages/Microsoft.VisualBasic/10.0.1/ref/netstandard1.1/Microsoft.VisualBasic.dll"
 -r:"/home/jbeck/.nuget/packages/Microsoft.Win32.Primitives/4.0.1/ref/netstandard1.3/Microsoft.Win32.Primitives.dll"
@@ -83,5 +83,5 @@
 -r:"/home/jbeck/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll"
 -r:"/home/jbeck/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll"
 -r:"/home/jbeck/NetCoreDemo/src/Library/bin/Debug/netstandard1.6/Library.dll"
-"/home/jbeck/NetCoreDemo/src/App.Console/Program.cs"
-"/home/jbeck/NetCoreDemo/src/App.Console/Properties/AssemblyInfo.cs"
+"/home/jbeck/NetCoreDemo/src/DemoConsoleApp/Program.cs"
+"/home/jbeck/NetCoreDemo/src/DemoConsoleApp/Properties/AssemblyInfo.cs"

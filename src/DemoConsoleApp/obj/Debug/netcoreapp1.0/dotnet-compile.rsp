@@ -1,5 +1,5 @@
---temp-output:/home/jbeck/NetCoreDemo/src/App.Console/obj/Debug/netcoreapp1.0/
---out:/home/jbeck/NetCoreDemo/src/App.Console/bin/Debug/netcoreapp1.0/App.Console.dll
+--temp-output:/home/jbeck/NetCoreDemo/src/DemoConsoleApp/obj/Debug/netcoreapp1.0/
+--out:/home/jbeck/NetCoreDemo/src/DemoConsoleApp/bin/Debug/netcoreapp1.0/DemoConsoleApp.dll
 --define:DEBUG
 --define:TRACE
 --define:NETCOREAPP1_0
@@ -8,7 +8,7 @@
 --suppress-warning:CS1705
 --optimize:False
 --emit-entry-point:True
---output-name:App.Console
+--output-name:DemoConsoleApp
 --file-version:1.0.0.0
 --version:1.0.0.0
 --informational-version:1.0.0
@@ -87,5 +87,5 @@
 --reference:/home/jbeck/.nuget/packages/System.Xml.ReaderWriter/4.0.11/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/home/jbeck/.nuget/packages/System.Xml.XDocument/4.0.11/ref/netstandard1.3/System.Xml.XDocument.dll
 --reference:/home/jbeck/NetCoreDemo/src/Library/bin/Debug/netstandard1.6/Library.dll
-/home/jbeck/NetCoreDemo/src/App.Console/Program.cs
-/home/jbeck/NetCoreDemo/src/App.Console/Properties/AssemblyInfo.cs
+/home/jbeck/NetCoreDemo/src/DemoConsoleApp/Program.cs
+/home/jbeck/NetCoreDemo/src/DemoConsoleApp/Properties/AssemblyInfo.cs

@@ -6,12 +6,12 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v1.0": {
-      "App.Console/1.0.0": {
+      "DemoConsoleApp/1.0.0": {
         "dependencies": {
           "Library": "1.0.0"
         },
         "runtime": {
-          "App.Console.dll": {}
+          "DemoConsoleApp.dll": {}
         }
       },
       "Library/1.0.0": {
@@ -22,7 +22,7 @@
     }
   },
   "libraries": {
-    "App.Console/1.0.0": {
+    "DemoConsoleApp/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
