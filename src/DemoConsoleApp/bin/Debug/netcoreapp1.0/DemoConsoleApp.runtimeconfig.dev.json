@@ -1,7 +1,7 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "/home/jbeck/.nuget/packages"
+      "C:\\Users\\jeff\\.nuget\\packages"
     ]
   }
 }

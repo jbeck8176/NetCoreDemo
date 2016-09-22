@@ -14,9 +14,9 @@ Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "Library", "src\Library\Libr
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{9840421E-BB16-4893-AEA9-6E99EF47D9E3}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestLibrary", "TestLibrary\TestLibrary.xproj", "{EE7C3F9F-AA66-4C2B-B130-8DEF20B757F7}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "TestLibrary", "test\TestLibrary\TestLibrary.xproj", "{EE7C3F9F-AA66-4C2B-B130-8DEF20B757F7}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DemoConsoleApo", "src\DemoConsoleApo\DemoConsoleApo.xproj", "{99F8E4A1-E4BA-4314-9EF8-1DFD6E70CA1A}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "DemoConsoleApp", "src\DemoConsoleApp\DemoConsoleApp.xproj", "{99F8E4A1-E4BA-4314-9EF8-1DFD6E70CA1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

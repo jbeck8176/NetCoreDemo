@@ -18,6 +18,8 @@ namespace DemoConsoleApp
       {
         Console.WriteLine(pet.TalkToOwner());
       }
+
+      Console.ReadLine();
     }
   }
 }
