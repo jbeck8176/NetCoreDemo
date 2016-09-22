@@ -10,6 +10,17 @@ namespace App.ConsoleApp
   {
     public static void Main(string[] args)
     {
-      
+      var petList = new List<IPet>(){
+        new Dog(),
+        new Cat()
+      };
+
+      foreach(var pet in petList)
+      {
+        Console.WriteLine(pet.TalkToOwner());
+      }
+
+      Console.ReadLine();
+    }
   }
 }
